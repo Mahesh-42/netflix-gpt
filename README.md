@@ -75,12 +75,3 @@ npm start
   - MoviesSuggestion
 
 
-
-
-
-
-## 🙏 Thank You 🙏
-
-Feel free to modify it to suit the tone and style of your project. The goal is to encourage participation, collaboration and learning.
-
-Made with ❤️ and React.
